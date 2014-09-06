@@ -10,12 +10,10 @@ var sub = function(a,b){
 };
 	return a*b;
 };
-<<<<<<< HEAD
-test
-=======
+
 var div=function(){
 
 return a/b;
 
 };
->>>>>>> Div added
+
