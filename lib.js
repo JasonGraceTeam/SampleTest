@@ -9,4 +9,7 @@ var add = function(a,b){
 var mul=function(a,b){
 
 return a*b;
+};
+var sayHello = function(argument) {
+	alert(argument);
 }
