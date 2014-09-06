@@ -20,3 +20,17 @@ var sayHelloTeam = function(){
 var test1 = function(){
 	alert('Sample test');
 }
+var sub = function(a,b){
+	return a-b;
+};
+var pro = function(a,b){
+	return a*b;
+};
+test
+var div=function(){
+
+return a/b;
+
+};
+Div added
+ SamplePullRequest
