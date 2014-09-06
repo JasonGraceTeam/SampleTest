@@ -19,4 +19,6 @@ var sayHelloTeam = function(){
 
 var test1 = function(){
 	alert('Sample test');
-}
+};
+
+var test2 = 'Vishwas HK';
