@@ -15,4 +15,8 @@ var sayHello = function(argument) {
 };
 var sayHelloTeam = function(){
 	alert('Hi Team');
+};
+
+var test1 = function(){
+	alert('Sample test');
 }
