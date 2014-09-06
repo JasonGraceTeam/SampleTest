@@ -32,6 +32,7 @@ var div=function(){
 return a/b;
 
 };
+
 Div added
  SamplePullRequest
 bye
