@@ -37,10 +37,5 @@ Div added
  SamplePullRequest
 bye
 extra line added
-
-
-Extra line added..
-
-bye
-extra line added
+My line
 
