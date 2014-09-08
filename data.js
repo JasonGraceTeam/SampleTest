@@ -4,3 +4,4 @@ var create = function(argument) {
 var open = function function_name (argument) {
 	console.log('opened '+argument+'file');
 };
+var test = 'Jason Grace';
