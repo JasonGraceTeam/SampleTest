@@ -8,3 +8,7 @@ var myJOb = function(JOB){
 var myAddress = function(myAddress) {
 	alert(myAddress);
 };
+var JasonGrace = function(){
+alert('Vishwas');
+};
+var peryJackson = 'Percy Jackson';'
