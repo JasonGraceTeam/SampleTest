@@ -5,3 +5,4 @@ var open = function function_name (argument) {
 	console.log('opened '+argument+'file');
 };
 var percy ='Percy Jackson';
+var jason = 'Jason';
